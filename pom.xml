@@ -31,7 +31,7 @@
         <artifactId.arquillian.jetty>arquillian-jetty-embedded-11</artifactId.arquillian.jetty>
         <version.arquillian.jetty>1.0.0.CR4</version.arquillian.jetty>
         <version.jetty>11.0.7</version.jetty>
-        <version.resteasy>6.0.0.Final</version.resteasy>
+        <version.resteasy>6.1.0.Final</version.resteasy>
         <!-- RESTEasy REST Client relocated to another GAV, so these props are for jakarta auto migration -->
         <groupId.resteasy.client>org.jboss.resteasy.microprofile</groupId.resteasy.client>
         <artifactId.resteasy.client>microprofile-rest-client</artifactId.resteasy.client>
